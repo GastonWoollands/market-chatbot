@@ -1,0 +1,16 @@
+base_directory: '/mnt/c/Users/Gwool/Documents/scripts/mkt_chatbot/data'
+tickers:
+  - MELI
+  - TSLA
+
+years:
+  - 2023
+
+details:
+  AAPL: Apple Inc.
+  MSFT: Microsoft Corporation
+  GOOG: Alphabet Inc.
+  MELI: Mercado Libre
+  TSLA: Tesla
+
+llmsherpa_url: "http://localhost:5010/api/parseDocument?renderFormat=all&useNewIndent=true"
